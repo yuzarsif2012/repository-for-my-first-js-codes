@@ -1,0 +1,11 @@
+h1 {
+    color: chartreuse;
+}
+
+button {
+color: white;
+background-color: blue;
+border-radius: 20%;
+padding: 10px;
+box-shadow: 5px 5px 10px rgb(112, 110, 110);
+}
